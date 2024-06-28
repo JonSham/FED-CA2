@@ -1,0 +1,15 @@
+/* for age slider to change thumb and track */
+.custom-slider::-webkit-slider-thumb {
+    background-color: white;
+  }
+
+  .custom-slider::-moz-range-thumb {
+    background-color: white;
+  }
+  .custom-slider::-webkit-slider-runnable-track {
+    background-color: grey;
+  }
+
+  .custom-slider::-moz-range-track {
+    background-color: grey;
+  }
